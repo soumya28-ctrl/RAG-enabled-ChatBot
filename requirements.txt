@@ -1,0 +1,20 @@
+# --- Core Framework ---
+streamlit>=1.39.0
+
+# --- LangChain Modular Stack (latest, 3.13 compatible) ---
+langchain>=0.3.4
+langchain-community>=0.4.1
+langchain-openai>=1.0.1
+langchain-text-splitters>=1.0.0
+langchain-core>=0.3.0
+
+# --- Vector Store ---
+faiss-cpu>=1.8.0.post1  # supports Python 3.13 wheels
+
+# --- YouTube + Tokenization ---
+youtube-transcript-api
+pytube
+tiktoken>=0.7.0
+
+# --- OpenAI client ---
+openai>=1.47.0
