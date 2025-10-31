@@ -38,7 +38,3 @@ The system retrieves video transcripts using the **YouTube Transcript API**, pro
 
 3. **Ask Questions**:
    - After the transcript is processed, you can start asking any question related to the video. The system will generate answers based on the transcript content.
-
-
-
-Would you like further adjustments or additions to this README file?
